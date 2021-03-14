@@ -1,7 +1,7 @@
 ## MaskLayer: Enabling scalable deep learning solutions by training embedded feature sets
-**Authors:** <a href="https://www.linkedin.com/in/remcoroyen/" target="_blank">Remco Royen</a>, <a href="http://www.etrovub.be/LeonDenis" target="_blank">Leon Denis</a>, <a href="http://www.etrovub.be/qbolsee" target="_blank">Quentin Bolsée</a>, <a href="http://www.etrovub.be/phu" target="_blank">Pengpeng Hu</a>and <a href="http://www.etrovub.be/AdrianMunteanu" target="_blank">Adrian Munteanu</a> from Vrije Universiteit Brussel.
+**Authors:** <a href="https://www.linkedin.com/in/remcoroyen/" target="_blank">Remco Royen</a>, <a href="http://www.etrovub.be/LeonDenis" target="_blank">Leon Denis</a>, <a href="http://www.etrovub.be/qbolsee" target="_blank">Quentin Bolsée</a>, <a href="http://www.etrovub.be/phu" target="_blank">Pengpeng Hu</a> and <a href="http://www.etrovub.be/AdrianMunteanu" target="_blank">Adrian Munteanu</a> from Vrije Universiteit Brussel.
 
-![MaskLayer architecture](https://github.com/remcoroyen/MaskLayer/paper_figs/masklayer_arch.png)
+![MaskLayer architecture](https://github.com/remcoroyen/MaskLayer/tree/main/paper_figs/masklayer_arch.png)
 
 **The code (both the basic code + applications) will be released soon. Estimated time of arrival: max 1st of June**
 
