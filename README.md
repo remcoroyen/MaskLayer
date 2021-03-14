@@ -3,7 +3,7 @@
 
 ![MaskLayer architecture](https://github.com/remcoroyen/MaskLayer/blob/main/paper_figs/masklayer_arch.png)
 
-**The code (both the basic code + applications) will be released soon. Estimated time of arrival: max 1st of June**
+**The code (both the basic code + applications) will be released soon. Estimated time of arrival: max <span style="font-size:larger;">1st</span> 1st of June**
 
 ### Introduction
 
