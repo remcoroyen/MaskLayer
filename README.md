@@ -8,6 +8,10 @@
 
 ### Introduction
 
+This repository is the code release of the work from our [journal paper](https://www.sciencedirect.com/science/article/pii/S089360802100023X?via%3Dihub), published in Neural Networks in May 2021 (the preprint can be accessed via [ResearchGate](https://www.researchgate.net/publication/348645114_MaskLayer_Enabling_scalable_deep_learning_solutions_by_training_embedded_feature_sets)). We propose a novel and generic neural network layer that is able to achieve quality scalable feature sets.
+
+Deep learning-based methods have shown to achieve excellent results in a variety of domains, however, some important assets are absent. Quality scalability is one of them. In this work, we introduce a novel and generic neural network layer, named MaskLayer. It can be integrated in any feedforward network, allowing quality scalability by design by creating embedded feature sets. These are obtained by imposing a specific structure of the feature vector during training. To further improve the performance, a masked optimizer and a balancing gradient rescaling approach are proposed. Our experiments show that the cost of introducing scalability using MaskLayer remains limited. In order to prove its generality and applicability, we integrated the proposed techniques in existing, non-scalable networks for point cloud compression and semantic hashing with excellent results. To the best of our knowledge, this is the first work presenting a generic solution able to achieve quality scalable results within the deep learning framework.
+
 ### Citation
 If you find our work useful in your research, please consider citing:
 
