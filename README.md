@@ -29,4 +29,4 @@ If you find our work useful in your research, please consider citing:
 Our code is released under MIT License (see LICENSE file for details).
 
 ## Contact
-If you have any questions or suggestions regarding this repo or the paper, please feel free to contact me (remco.royen@vub.be).
+If you have any questions or suggestions regarding this repo or the paper, feel free to contact me (remco.royen@vub.be).
