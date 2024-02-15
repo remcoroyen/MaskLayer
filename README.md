@@ -1,6 +1,6 @@
 ## MaskLayer: Enabling scalable deep learning solutions by training embedded feature sets
 
-**The code (both the basic code + applications) will be released soon. Estimated time of arrival: max 1st of June 2021 (EDIT: Due to deadlines, ETA delayed to 1st of August)**
+**The code (both the basic code + applications) will be released soon. Estimated time of arrival: 15 March 2024**
 
 **Authors:** <a href="https://www.linkedin.com/in/remcoroyen/" target="_blank">Remco Royen</a>, <a href="http://www.etrovub.be/LeonDenis" target="_blank">Leon Denis</a>, <a href="http://www.etrovub.be/qbolsee" target="_blank">Quentin Bolsée</a>, <a href="http://www.etrovub.be/phu" target="_blank">Pengpeng Hu</a> and <a href="http://www.etrovub.be/AdrianMunteanu" target="_blank">Adrian Munteanu</a> - Vrije Universiteit Brussel (VUB). The first author has been funded by a FWO-SB scholarship.
 
